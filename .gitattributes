@@ -2,3 +2,4 @@
 high_data.zip filter=lfs diff=lfs merge=lfs -text
 low_data.zip filter=lfs diff=lfs merge=lfs -text
 yolo11x/* filter=lfs diff=lfs merge=lfs -text
+yolov10x/* filter=lfs diff=lfs merge=lfs -text
